@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<!-- Free Sitemap Generator http://www.sitemapx.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://join.dofan.ltd/</loc>
+<priority>0.8</priority>
+<lastmod>2019-01-27T06:59:33+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/index_zh-cn.html</loc>
+<priority>1.0</priority>
+<lastmod>2019-01-27T06:59:33+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/language.html</loc>
+<priority>0.8</priority>
+<lastmod>2019-01-27T06:59:33+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/zh-cn/</loc>
+<priority>0.6</priority>
+<lastmod>2019-01-27T06:59:33+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/zh-cn/dalao.html</loc>
+<priority>0.6</priority>
+<lastmod>2019-01-27T06:59:32+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/zh-cn/school.html</loc>
+<priority>0.6</priority>
+<lastmod>2019-01-27T06:59:32+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<loc>http://join.dofan.ltd/zh-cn/society.html</loc>
+<priority>0.6</priority>
+<lastmod>2019-01-27T06:59:32+00:00</lastmod>
+<changefreq>Always</changefreq>
+</url>
+</urlset>
